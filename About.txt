@@ -1,1 +1,12 @@
-This is is deployed in the Azure cloud demo application.
+This is is deployed in the Azure cloud demo applications.
+
+git init   
+git status
+git add
+git commit -m "First commit"
+git diff
+git config --global user.name shashi2k6@gmail.com
+git remote add origin https://github.com/shashi2k6/azure.git
+git push origin master
+
+
